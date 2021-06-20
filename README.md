@@ -14,3 +14,5 @@
 * 2!=1 * 2 = 2 
 * 3!=1 * 2 * 3 = 6
 * 4!=1 * 2 * 3 * 4 = 24
+##### P.S : I added the two version sof my code, so you can reach the code easily.
+##### Thank You !!!
